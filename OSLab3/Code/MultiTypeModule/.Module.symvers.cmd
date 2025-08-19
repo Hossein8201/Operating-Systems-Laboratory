@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/Makefile/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/hosseintatar/Desktop/Makefile/Module.symvers -T /home/hosseintatar/Desktop/Makefile/modules.order -i Module.symvers -e 

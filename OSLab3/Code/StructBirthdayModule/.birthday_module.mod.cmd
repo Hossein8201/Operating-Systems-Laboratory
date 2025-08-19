@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/StructBirthdayModule/birthday_module.mod := printf '%s\n'   birthday_module.o | awk '!x[$$0]++ { print("/home/hosseintatar/Desktop/StructBirthdayModule/"$$0) }' > /home/hosseintatar/Desktop/StructBirthdayModule/birthday_module.mod

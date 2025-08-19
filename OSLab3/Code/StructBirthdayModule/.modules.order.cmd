@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/StructBirthdayModule/modules.order := {   echo /home/hosseintatar/Desktop/StructBirthdayModule/birthday_module.o; :; } > /home/hosseintatar/Desktop/StructBirthdayModule/modules.order

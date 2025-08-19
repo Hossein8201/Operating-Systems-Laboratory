@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/ProcessInfoModule/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/hosseintatar/Desktop/ProcessInfoModule/Module.symvers -T /home/hosseintatar/Desktop/ProcessInfoModule/modules.order -i Module.symvers -e 

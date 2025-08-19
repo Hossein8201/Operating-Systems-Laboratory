@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/StructBirthdayModule/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/hosseintatar/Desktop/StructBirthdayModule/Module.symvers -T /home/hosseintatar/Desktop/StructBirthdayModule/modules.order -i Module.symvers -e 

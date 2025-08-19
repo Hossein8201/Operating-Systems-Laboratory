@@ -1,0 +1,1 @@
+savedcmd_/home/hosseintatar/Desktop/Makefile/my_module.mod := printf '%s\n'   my_module.o | awk '!x[$$0]++ { print("/home/hosseintatar/Desktop/Makefile/"$$0) }' > /home/hosseintatar/Desktop/Makefile/my_module.mod
