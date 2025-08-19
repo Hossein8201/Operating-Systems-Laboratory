@@ -221,27 +221,13 @@ Upon completion of this laboratory course, students will have:
 6. **Algorithm Implementation**: Real-world implementation of OS algorithms
 7. **Problem-Solving Skills**: Ability to identify and solve OS-related problems
 
-## 🤝 Contributing
-
-This repository contains educational materials. For improvements or corrections:
-1. Review the existing code and documentation
-2. Identify areas for enhancement
-3. Submit suggestions through appropriate channels
-
-## 📝 License
-
-This project is for educational purposes. All materials are intended for academic use in Operating Systems courses.
-
-## 👥 Authors
-
-- **Course**: Operating Systems Laboratory
-- **Institution**: Computer Engineering Department
-- **Semester**: 6th Semester
-- **Academic Year**: Operating Systems Lab Course
-
 ## 📞 Support
 
 For questions or issues related to the laboratory work:
 - Review the lab manual (`OS_LAB_InstructionManual.pdf`)
 - Check individual lab reports for specific instructions
 - Consult the setup guide (`how to setup Linux.pdf`)
+
+## 📝 License
+
+This project is for educational purposes. All materials are intended for academic use in Operating Systems courses.
